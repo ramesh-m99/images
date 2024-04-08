@@ -1,0 +1,106 @@
+{
+  "banner": [
+    {
+      "title": "Mission impossible-1",
+      "language": "English",
+      "image": "https://raw.githubusercontent.com/ramesh-m99/images/main/Mission_Impossible_franchise_logo.webp"
+    },
+    {
+      "title": "Mission impossible-2",
+      "language": "English",
+      "image": "https://raw.githubusercontent.com/ramesh-m99/images/main/Mission_Impossible_franchise_logo.webp"
+    },
+    {
+      "title": "Mission impossible-3",
+      "language": "English",
+      "image": "https://raw.githubusercontent.com/ramesh-m99/images/main/Mission_Impossible_franchise_logo.webp"
+    },
+    {
+      "title": "Mission impossible-4",
+      "language": "English",
+      "image": "https://raw.githubusercontent.com/ramesh-m99/images/main/Mission_Impossible_franchise_logo.webp"
+    },
+    {
+      "title": "Mission impossible-5",
+      "language": "English",
+      "image": "https://raw.githubusercontent.com/ramesh-m99/images/main/Mission_Impossible_franchise_logo.webp"
+    }
+  ],
+  "rails": [
+    {
+      "title": "Latest releases",
+      "items": [
+        {
+          "image": "https://raw.githubusercontent.com/ramesh-m99/images/main/Mission_Impossible_franchise_logo.webp",
+          "title": "Mission impossible-1"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/ramesh-m99/images/main/Mission_Impossible_franchise_logo.webp",
+          "title": "Mission impossible-1"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/ramesh-m99/images/main/Mission_Impossible_franchise_logo.webp",
+          "title": "Mission impossible-1"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/ramesh-m99/images/main/Mission_Impossible_franchise_logo.webp",
+          "title": "Mission impossible-1"
+        },
+        {
+          "image": "https://raw.githubusercontent.com/ramesh-m99/images/main/Mission_Impossible_franchise_logo.webp",
+          "title": "Mission impossible-1"
+        }
+      ]
+    },
+    {
+        "title": "Best In Sports",
+        "items": [
+          {
+            "image": "https://raw.githubusercontent.com/ramesh-m99/images/main/Mission_Impossible_franchise_logo.webp",
+            "title": "Mission impossible-1"
+          },
+          {
+            "image": "https://raw.githubusercontent.com/ramesh-m99/images/main/Mission_Impossible_franchise_logo.webp",
+            "title": "Mission impossible-1"
+          },
+          {
+            "image": "https://raw.githubusercontent.com/ramesh-m99/images/main/Mission_Impossible_franchise_logo.webp",
+            "title": "Mission impossible-1"
+          },
+          {
+            "image": "https://raw.githubusercontent.com/ramesh-m99/images/main/Mission_Impossible_franchise_logo.webp",
+            "title": "Mission impossible-1"
+          },
+          {
+            "image": "https://raw.githubusercontent.com/ramesh-m99/images/main/Mission_Impossible_franchise_logo.webp",
+            "title": "Mission impossible-1"
+          }
+        ]
+      },
+      {
+        "title": "New Movies For You",
+        "items": [
+          {
+            "image": "https://raw.githubusercontent.com/ramesh-m99/images/main/Mission_Impossible_franchise_logo.webp",
+            "title": "Mission impossible-1"
+          },
+          {
+            "image": "https://raw.githubusercontent.com/ramesh-m99/images/main/Mission_Impossible_franchise_logo.webp",
+            "title": "Mission impossible-1"
+          },
+          {
+            "image": "https://raw.githubusercontent.com/ramesh-m99/images/main/Mission_Impossible_franchise_logo.webp",
+            "title": "Mission impossible-1"
+          },
+          {
+            "image": "https://raw.githubusercontent.com/ramesh-m99/images/main/Mission_Impossible_franchise_logo.webp",
+            "title": "Mission impossible-1"
+          },
+          {
+            "image": "https://raw.githubusercontent.com/ramesh-m99/images/main/Mission_Impossible_franchise_logo.webp",
+            "title": "Mission impossible-1"
+          }
+        ]
+      }
+  ]
+}
