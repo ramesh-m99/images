@@ -1,29 +1,74 @@
 {
   "banner": [
     {
-      "title": "Mission impossible-1",
+      "title": "Premalu",
       "language": "English",
-      "image": "https://images.slivcdn.com/videoasset_images/maharanis3_1_masthead_web_v1.jpg?h=auto&w=1366&q=high"
+      "image": "https://image-resizer-cloud-api.akamaized.net/image/63C9A3B9-2355-45C8-A922-BBA50C911761/0-3x1.jpg?width=2310&updatedTime=2024-04-08T15:20:23Z&dt=Web"
     },
     {
-      "title": "Mission impossible-2",
+      "title": "My Dear Donga",
       "language": "English",
-      "image": "https://akamaividz2.zee5.com/image/upload/w_347,h_521,c_scale,f_webp,q_auto:eco/resources/0-101-10z5535296/portrait/1920x770b0d37714de654e6c9451a8ae6e89f826.jpg"
+      "image": "https://image-resizer-cloud-api.akamaized.net/image/977BB37F-85BC-430B-9FE2-56CC33E5A4BA/0-3x1.jpg?width=2310&updatedTime=2024-03-26T04:28:09Z&dt=Web"
     },
     {
-      "title": "Mission impossible-3",
+      "title": "South India Film Festival",
       "language": "English",
-      "image": "https://akamaividz2.zee5.com/image/upload/w_347,h_521,c_scale,f_webp,q_auto:eco/resources/0-0-1z5512788/portrait/1920x7703d2fd39f63454242b8dec6e15515a9b88fc7a952fba743a2891a7b8723220d654f1f37cabcdb44719b984f546fd7ae5e.jpg"
+      "image": "https://image-resizer-cloud-api.akamaized.net/image/6A9FD7F2-6CC0-4E8D-BA37-EE9493987FD5/0-3x1.jpg?width=2310&updatedTime=2024-04-09T13:41:08Z&dt=Web"
     },
     {
-      "title": "Mission impossible-4",
+      "title": "Chef Mantra",
       "language": "English",
-      "image": "https://raw.githubusercontent.com/ramesh-m99/images/main/Mission_Impossible_franchise_logo.webp"
+      "image": "https://image-resizer-cloud-api.akamaized.net/image/6E40C05A-85F6-4C8D-A74C-61C2DD023230/0-3x1.jpg?width=2310&updatedTime=2024-04-08T14:25:13Z&dt=Web"
     },
     {
-      "title": "Mission impossible-5",
+      "title": "Thantra",
       "language": "English",
-      "image": "https://akamaividz2.zee5.com/image/upload/w_347,h_521,c_scale,f_webp,q_auto:eco/resources/0-0-1z5512788/portrait/1920x7703d2fd39f63454242b8dec6e15515a9b88fc7a952fba743a2891a7b8723220d654f1f37cabcdb44719b984f546fd7ae5e.jpg"
+      "image": "https://image-resizer-cloud-api.akamaized.net/image/32A18797-B194-4029-9FF2-926859055787/0-3x1.jpg?width=2310&updatedTime=2024-04-05T02:47:42Z&dt=Web"
+    },
+    {
+      "title": "DJ Tillu",
+      "language": "English",
+      "image": "https://image-resizer-cloud-api.akamaized.net/image/A2D5FA05-208D-45CC-9394-7AA4BEA8ED8F/0-3x1.jpg?width=2310&updatedTime=2024-04-05T02:48:58Z&dt=Web"
+    },
+    {
+      "title": "Sundram Master",
+      "language": "English",
+      "image": "https://image-resizer-cloud-api.akamaized.net/image/A2E1DF34-C2E9-48EF-94F3-B7A8693971BF/0-3x1.jpg?width=2310&updatedTime=2024-04-05T02:51:08Z&dt=Web"
+    },
+    {
+      "title": "Bhoothaddam Bhaskar",
+      "language": "English",
+      "image": "https://image-resizer-cloud-api.akamaized.net/image/F8101D46-3B4A-47F1-948A-36F4F6B80923/0-3x1.jpg?width=2310&updatedTime=2024-04-05T16:05:50Z&dt=Web"
+    },
+    {
+      "title": "Prema Entha Madhuram",
+      "language": "English",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_1013,h_405,c_scale,f_webp,q_auto:eco/resources/0-6-2460/cover/1920x770c976b169c5014c2cb8c499fa9f56ba05d435b9f6a1d3407eb6bd9e81f1c549f6.jpg"
+    },
+    {
+      "title": "Gaami",
+      "language": "English",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_1013,h_405,c_scale,f_webp,q_auto:eco/resources/0-101-10z5542708/cover/1920x770e5876b343b194e5281648775f18652d93ae0157c66d14602a3a0a4a7a5708ce8178f8857d891431c803907060730064a.jpg"
+    },
+    {
+      "title": "Nindu Noorella Savasam",
+      "language": "English",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_1013,h_405,c_scale,f_webp,q_auto:eco/resources/0-6-4z5410114/cover/1920x7704f33580a9f074a05be407fa8a5e110de588cf36d368049fab31ff534f983c18b.jpg"
+    },
+    {
+      "title": "The Kerala Story",
+      "language": "English",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_1013,h_405,c_scale,f_webp,q_auto:eco/resources/0-101-10z5513462/cover/1920x77081590f39618e4cedafd183a45c395033.jpg"
+    },
+    {
+      "title": "Hanuman",
+      "language": "English",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_1013,h_405,c_scale,f_webp,q_auto:eco/resources/0-101-10z5531943/cover/1920x770429cf05672224d7f875b9a28e015eb8e.jpg"
+    },
+    {
+      "title": "Sunflower",
+      "language": "English",
+      "image": "https://akamaividz2.zee5.com/image/upload/w_1013,h_405,c_scale,f_webp,q_auto:eco/resources/0-101-10z5542711/cover/1920x770b35c6cf809824bf183d628b0ffdea473.jpg"
     }
   ],
   "rails": [
